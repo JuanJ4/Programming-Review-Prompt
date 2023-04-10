@@ -1,1 +1,3 @@
-# Programming-Review-Prompt
+- two part assessment: the coding portion and the report.
+- both are weighed the same, report needs to be presentable to C-suite level
+- needs to be posted on some public access domain (Github, etc.)
